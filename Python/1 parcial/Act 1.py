@@ -1,0 +1,6 @@
+print("hola mundo")
+print("soy sofia Gomez")
+print("de 7 grado")
+print("soy del B")
+print("el album de billie eilish se llama happier than ever")
+print("mi comida favorita es la pizza")
